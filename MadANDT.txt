@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 //Fichier question 5, Exercice 2
+Modification à apporter (Exer2, Qs9)
+=======
+//Fichier question 5, Exercice 2 (là c'est moi)
+>>>>>>> cdf3ddab7d6d653b765702ea6b47e9c32bdd6a5e
